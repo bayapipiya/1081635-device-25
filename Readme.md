@@ -1,7 +1,7 @@
 # Личный проект «Девайс»
 
 * Студент: [Baya Pipiya](https://up.htmlacademy.ru/htmlcss/25/user/1081635).
-* Наставник: `Неизвестно`.
+* Наставник: [Антон Казанцев] (https://htmlacademy.ru/profile/id1042373)
 
 ---
 
